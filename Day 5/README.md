@@ -1,4 +1,4 @@
-# 🚀 Deploy EC2 Instance Using Terraform
+# Deploy EC2 Instance Using Terraform
 
 This guide helps you to deploy an AWS EC2 instance using Terraform.
 
@@ -28,7 +28,7 @@ This guide helps you to deploy an AWS EC2 instance using Terraform.
 
 ---
 
-## 🧱 Prerequisites
+## Prerequisites
 
 Before you begin, make sure the following tools are installed on your system:
 
@@ -37,11 +37,11 @@ Before you begin, make sure the following tools are installed on your system:
   <img src="https://img.shields.io/badge/AWS%20CLI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CLI"/>
 </p>
 
-### 📦 Install Terraform
+### Install Terraform
 
 - [Download Terraform](https://www.terraform.io/downloads.html)
 
-### 📦 Install AWS CLI
+### Install AWS CLI
 
 - [Install AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
 
@@ -66,8 +66,9 @@ terraform plan
 terraform apply
 ```
 
-![Screenshot 2025-04-14 151651](https://github.com/user-attachments/assets/327d47cc-b97a-4793-a60f-021c334f83c7)
-![Screenshot 2025-04-14 151638](https://github.com/user-attachments/assets/cb536458-05b9-4682-a385-d2602e2075c4)
+
+![Screenshot 2025-04-14 151651](https://github.com/user-attachments/assets/743bcfe9-37e7-4ba6-97ff-696f3c95a3f8)
+![Screenshot 2025-04-14 151638](https://github.com/user-attachments/assets/5168ab9c-a7bd-479a-b573-364cbbcd136b)
 
 
 
