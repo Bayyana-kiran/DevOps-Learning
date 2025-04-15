@@ -1,0 +1,37 @@
+[
+    {
+      "description": "Valid signature, just generated",
+      "payload": "do_something_important",
+      "timestamp": "20250414T110000Z",
+      "current_time": "20250414T110400Z",
+      "expected_expired": false
+    },
+    {
+      "description": "Expired signature, over 5 minutes old",
+      "payload": "do_something_important",
+      "timestamp": "20250414T110000Z",
+      "current_time": "20250414T110601Z",
+      "expected_expired": true
+    },
+    {
+      "description": "Exactly 5 minutes difference (boundary case)",
+      "payload": "do_something_important",
+      "timestamp": "20250414T110000Z",
+      "current_time": "20250414T110500Z",
+      "expected_expired": false
+    },
+    {
+      "description": "Future timestamp (possible clock skew)",
+      "payload": "do_something_important",
+      "timestamp": "20250414T111000Z",
+      "current_time": "20250414T110500Z",
+      "expected_expired": false
+    },
+    {
+      "description": "Expired with large difference",
+      "payload": "do_something_important",
+      "timestamp": "20250414T100000Z",
+      "current_time": "20250414T111000Z",
+      "expected_expired": true
+    }
+  ]
