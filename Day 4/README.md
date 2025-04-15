@@ -114,7 +114,8 @@ Make sure your user or role has the following permissions:
    - `current_time`: Simulated "now" to check expiration.
    - `expected_expired`: Boolean flag indicating expected result.
   
-    ![Screenshot 2025-04-14 171551](https://github.com/user-attachments/assets/47c63d1e-31d4-47f8-9162-728c5aed18bd)
+   ![Screenshot 2025-04-14 171551](https://github.com/user-attachments/assets/ebb8e63a-01d0-4ced-800d-1b3d4ba52c69)
+
 
 
 2. **Signature Generation**:
@@ -132,10 +133,10 @@ Make sure your user or role has the following permissions:
 5. **Returns**:
    - A JSON object listing the result of each test case.
 
-   ![Screenshot 2025-04-14 171601](https://github.com/user-attachments/assets/864eb8e4-c3d2-4fd8-aa75-4d99c7e1302b)
 
+![Screenshot 2025-04-14 171648](https://github.com/user-attachments/assets/01b7514d-85d2-4405-9715-9d5ecdf2e415)
 
-   ![Screenshot 2025-04-14 171648](https://github.com/user-attachments/assets/ad91cebd-639f-455f-8d91-fc22e9dc30c1)
+![Screenshot 2025-04-14 171601](https://github.com/user-attachments/assets/2a41a64b-5775-406a-896c-3b8b0ae4f6a0)
 
    
 
