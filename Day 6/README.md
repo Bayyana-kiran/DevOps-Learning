@@ -56,11 +56,15 @@ sequenceDiagram
 
 Screenshot:
 
-![Screenshot 2025-04-15 211023](https://github.com/user-attachments/assets/da113ac4-cda5-4a2e-b053-0cae5733519a)
+![Screenshot 2025-04-15 211023](https://github.com/user-attachments/assets/cdca7fc7-a671-49f2-a8e1-35bff8533873)
 
 <br>
 
-![Screenshot 2025-04-15 211008](https://github.com/user-attachments/assets/fc267726-9400-4ade-b5a8-003cf6d3cb3d)
+![Screenshot 2025-04-15 211008](https://github.com/user-attachments/assets/fb78e65d-f7b2-4263-a979-67bb979af611)
+
+
+
+
 
 ---
 
@@ -74,7 +78,8 @@ If your pipeline is configured to detect changes in the S3 bucket:
 
 Screenshot:
 
-![Screenshot 2025-04-15 215153](https://github.com/user-attachments/assets/847e149c-2479-4d51-b370-796cc7432988)
+![Screenshot 2025-04-15 215153](https://github.com/user-attachments/assets/09969cc8-7405-4bd3-9fa5-2035741cc556)
+
 
 
 ---
