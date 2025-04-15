@@ -90,7 +90,8 @@ To create an EKS cluster using `eksctl`, you need an IAM user with sufficient pe
      - `AmazonEC2FullAccess`
      - `IAMFullAccess`
      - `AmazonVPCFullAccess`
-![Screenshot 2025-04-15 182641](https://github.com/user-attachments/assets/5f939d2c-a286-4989-8a4a-30f05a92b065)
+![Screenshot 2025-04-15 182641](https://github.com/user-attachments/assets/a151fb44-ee4b-45d0-80c4-de29832146b0)
+
 
 5. **Review and Create User**
 6. **Download the Access Key and Secret Key**
@@ -109,7 +110,8 @@ To create an EKS cluster using `eksctl`, you need an IAM user with sufficient pe
      ```bash
      aws sts get-caller-identity
      ```
-  ![Screenshot 2025-04-15 181534](https://github.com/user-attachments/assets/9fe69081-a118-4f2b-9fdf-662e50e6a2bd)
+  ![Screenshot 2025-04-15 181534](https://github.com/user-attachments/assets/a740964a-0d59-4681-acf6-8922e63aa833)
+
 
 ---
 
@@ -169,9 +171,8 @@ eksctl create cluster --name sai-kiran-bls --region us-east-1 --nodegroup-name n
 ```
 <br>
 
-![Screenshot 2025-04-10 160254](https://github.com/user-attachments/assets/2adfeb17-71f8-4e31-a3b5-12bd5522c7ed)
+![Screenshot 2025-04-10 160254](https://github.com/user-attachments/assets/5d04ec3e-559e-4ad3-9eff-3be6ab240b75)
+![Screenshot 2025-04-10 154321](https://github.com/user-attachments/assets/46b45a2e-3c5d-425a-af14-9841167ed260)
+![Screenshot 2025-04-10 154308](https://github.com/user-attachments/assets/82212c62-4d73-4420-9f72-884738f4de1f)
 
-![Screenshot 2025-04-10 154321](https://github.com/user-attachments/assets/e0717002-7bed-4ecb-837f-87704ae13358)
-
-![Screenshot 2025-04-10 154308](https://github.com/user-attachments/assets/6900aa87-5df3-46c9-9101-6b6c57ea759d)
 
