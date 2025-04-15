@@ -88,7 +88,7 @@ minikube ip
 minikube dashboard
 ```
 
-![Screenshot 2025-04-15 175247](https://github.com/user-attachments/assets/02337def-90ed-41e9-8b37-1bdaa551f0e0)
+![Screenshot 2025-04-15 175247](https://github.com/user-attachments/assets/2fef1ce7-13c7-4410-8468-92c6c0a2b984)
 
 
 ### Step 6: Access the Web App
@@ -96,11 +96,13 @@ minikube dashboard
 minikube service webapp-service
 ```
 
-![Screenshot 2025-04-15 130047](https://github.com/user-attachments/assets/38d88d93-efb7-4705-957f-9a95acebc35a)
+
+![Screenshot 2025-04-15 130047](https://github.com/user-attachments/assets/ebd96e70-f765-43e5-abaa-543564eef619)
 
 <br>
 
-![Screenshot 2025-04-15 125955](https://github.com/user-attachments/assets/fc402891-b4f0-42b6-b3cb-b5d6a4338b84)
+
+![Screenshot 2025-04-15 125955](https://github.com/user-attachments/assets/e5326c9a-258f-404e-8a4d-47b68667f235)
 
 
 
