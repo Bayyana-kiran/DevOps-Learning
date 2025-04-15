@@ -68,8 +68,8 @@ docker-compose up --build
 ```
 
 Check in Localhost:3000 through postman
-![Screenshot 2025-04-15 122012](https://github.com/user-attachments/assets/64aabe0d-307e-4639-865f-7acb2a0d1958)
 
+![Screenshot 2025-04-15 122012](https://github.com/user-attachments/assets/fb8b3619-ee15-4ecf-a9e6-f4bd926bd403)
 
 
 ### Step 2: login 
@@ -84,19 +84,19 @@ docker login
 ```bash
 docker build -t yourdockerhubusername/node-profile-app .
 ```
+![Screenshot 2025-04-15 124844](https://github.com/user-attachments/assets/0380c47d-8b07-4496-9a04-de82ca1f4f71)
 
-![Screenshot 2025-04-15 130653](https://github.com/user-attachments/assets/bfefa212-f7a6-48bc-b359-df362d23352e)
+![Screenshot 2025-04-15 130653](https://github.com/user-attachments/assets/815f9883-7b19-4f1c-beda-49c7ab7e6d17)
 
-![Screenshot 2025-04-15 124844](https://github.com/user-attachments/assets/e3038184-e8b7-4dda-9cef-2216393f9489)
 
 
 ### Step 4: Push to Docker Hub
 ```bash
 docker push yourdockerhubusername/node-profile-app
 ```
-Screenshot 2025-04-15 131953
+![Screenshot 2025-04-15 131953](https://github.com/user-attachments/assets/98dd5721-a841-4f96-b551-c3873bc6d29c)
 
-![Screenshot 2025-04-15 132032](https://github.com/user-attachments/assets/acb40595-862a-49ad-8ad9-c9cf3bb5bfa6)
+![Screenshot 2025-04-15 132032](https://github.com/user-attachments/assets/fca73df2-cd90-4470-8395-ed22a7755147)
 
 
 ### Step 5: Stop and Clean Up
